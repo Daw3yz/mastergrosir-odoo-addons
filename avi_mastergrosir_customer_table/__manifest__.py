@@ -3,7 +3,7 @@
 {
     'name': 'Mastergrosir Custom Customer Table',
     'author': 'Avisoft System Solution',
-    'version': '17.0.1.2.7',
+    'version': '17.0.1.0.0',
     'category': '',
     'depends': [
         'base',
